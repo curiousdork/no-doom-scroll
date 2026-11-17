@@ -1,0 +1,1 @@
+/Users/brianmaula/Development/no-doom-scroll/rust/target/debug/minigrep: /Users/brianmaula/Development/no-doom-scroll/rust/crates/minigrep/src/lib.rs /Users/brianmaula/Development/no-doom-scroll/rust/crates/minigrep/src/main.rs

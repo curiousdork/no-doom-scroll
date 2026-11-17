@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Miscellaneous/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/KeyValue.CLI/KeyValue.CLI.csproj" />
+  <Project Path="src/tests/KeyValue.CLI.Tests/KeyValue.CLI.Tests.csproj" />
+</Solution>

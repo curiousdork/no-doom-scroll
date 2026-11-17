@@ -1,0 +1,4 @@
+    Checking hello v0.1.0 (/Users/brianmaula/Development/no-doom-scroll/rust/crates/hello)
+error: could not compile `hello` (lib) due to 1 previous error; 1 warning emitted
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `hello` (lib test) due to 1 previous error; 1 warning emitted
